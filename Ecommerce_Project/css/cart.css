@@ -1,0 +1,64 @@
+.navbar .navbar-nav .nav-item a{
+    padding: 15px;
+}
+.navbar .navbar-nav .nav-btn{
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top:100px;
+}
+
+.cartempty{
+    border:none;
+    background-color:aliceblue;
+    text-align: center;
+
+    /* font-size: 2rem; */
+    align-content: center;
+    
+    
+    position: relative;
+    top:120px;
+    left:70px;
+    width:90%;
+    height:200px;
+}
+.cartempty hr{
+    position: relative;
+    bottom:70px;
+}
+.cartempty p{
+    font-size: 1.8rem;
+}
+.cartempty button{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.card-container{
+    position: relative;
+    top:100px;
+    display:flex;
+    margin-left: 30px;
+}
+.card{
+    width:800px;
+    
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#order-summary .card{
+    width:400px;
+    position: relative;
+    left:30px;
+    
+}
+
+.footer p{
+    position: relative;
+    text-align: center;
+    top:400px;
+}

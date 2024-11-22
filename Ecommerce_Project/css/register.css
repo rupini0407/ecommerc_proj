@@ -1,0 +1,31 @@
+.navbar .navbar-nav .nav-item a{
+    padding: 15px;
+}
+.navbar .navbar-nav .nav-btn{
+    padding: 10px;
+}
+h1{
+    position: relative;
+    top:100px;
+    text-align: center;
+}
+hr{
+    position: relative;
+    top:110px;
+}
+.register-container{
+    width:400px;
+    position: relative;
+    top:130px;
+    left: 550px;
+}
+.register-container button{
+   margin-top: 10px;
+   margin-left: 160px;
+   width:80px;
+}
+.footer p{
+    position: relative;
+    text-align: center;
+    top:200px;
+}

@@ -1,0 +1,84 @@
+.navbar .navbar-nav .nav-item a{
+    padding: 15px;
+}
+.navbar .navbar-nav .nav-btn{
+    padding: 10px;
+}
+
+.latestproducts{
+    position: relative;
+    top: 100px;
+    text-align: center;
+    
+
+}
+
+.category{
+    position: relative;
+    top:200px;
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    border-radius:5px ;
+    
+}
+.category button{
+    
+    
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.category button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+#product-cards-container {
+    position: relative;
+    top:200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+
+    
+
+
+
+.card img{
+    padding: 10px;
+    width:360px;
+    height:300px;
+}
+ .card .card-body h5{
+    text-align: center;
+} 
+ /* .card .card-body p{
+    
+    position: relative;
+    right:100px;
+    
+} */
+.card .card-body .price{
+    
+    text-align: center;
+} 
+.card .card-body hr{
+    position: relative;
+    right:28px;
+    width:380px;
+}
+.card .card-body #details{
+    margin-left: 60px;
+}
+
+
+.footer p{
+    position: relative;
+    text-align: center;
+    top:350px;
+}
